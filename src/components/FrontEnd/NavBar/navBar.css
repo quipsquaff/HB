@@ -1,0 +1,16 @@
+@font-face {
+    font-family: MainFont;
+    src: url(../../../assets/fonts/agoestoesan.ttf);
+  }
+
+.NavBarContainer {
+    font-family: MainFont;
+    text-align: center;
+    align-items: center;
+    background-color: white;
+    
+  }
+
+ .NavFonts {
+      color: tomato;
+  }

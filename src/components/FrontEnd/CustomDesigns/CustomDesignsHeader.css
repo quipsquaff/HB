@@ -1,0 +1,85 @@
+@font-face {
+    font-family: MainFont;
+    src: url(../../../assets/fonts/agoestoesan.ttf);
+  }
+@font-face {
+    font-family: SpanD;
+    src: url(../../../assets/fonts/aAlloyInk.ttf);
+  }
+@font-face {
+    font-family: SpanE;
+    src: url(../../../assets/fonts/LetrasLocas2.ttf);
+  }
+@font-face {
+    font-family: SpanS;
+    src: url(../../../assets/fonts/PoppyAOE.ttf);
+  }
+@font-face {
+    font-family: SpanI;
+    src: url(../../../assets/fonts/LambadaDexter.ttf);
+  }
+@font-face {
+    font-family: SpanG;
+    src: url(../../../assets/fonts/BYTECAPS.TTF);
+  }
+@font-face {
+    font-family: SpanN;
+    src: url(../../../assets/fonts/BlueStone.ttf);
+  }
+@font-face {
+    font-family: SpanS2;
+    src: url(../../../assets/fonts/LAFFRN__.TTF);
+    
+  }
+
+  .CustomDesignsHeaderContainer {
+    font-size:5rem;
+    font-family: MainFont;
+    text-align: center;
+    
+  }
+
+  .CustomDesignsHeaderFunkyLetters{
+    font-size:7rem;
+  }
+
+  .Dx {
+    font-family: SpanD;
+    
+  }                                       
+
+  .Ex {
+    font-family: SpanE;
+    color: crimson;
+    
+  }
+
+  .Sx {
+    font-family: SpanS;
+    color: royalblue;
+  
+  }
+
+  .Ix {
+    font-family: SpanI;
+    color: darkgreen;
+   
+  }
+
+  .Gx {
+    font-family: SpanG;
+    color: goldenrod;
+  
+  }
+
+  .Nx {
+    font-family: SpanN;
+    color: rebeccapurple;
+
+  }
+
+  .Sx2 {
+    font-family: SpanS2;
+    color: tomato;
+  
+  }

@@ -1,0 +1,13 @@
+.galleryContainer {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    border-style: solid;
+}
+
+img {
+    padding: 4px;
+    width: 420px;
+    height: auto;
+}

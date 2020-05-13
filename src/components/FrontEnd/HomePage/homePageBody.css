@@ -1,0 +1,15 @@
+.img1 {
+ background-image: url('../../../assets/photos/bill-nino-2PvQq4W6KYc-unsplash.jpg');
+
+ width: 100%;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+.img2 {
+ height: 30rem;
+ width: 100%;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
