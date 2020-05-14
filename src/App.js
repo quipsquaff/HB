@@ -20,10 +20,10 @@ class App extends Component {
           <NavBar />
             <div className = "componentBodyWrapper">
               <Route exact path="/hb" component={HomePageBody}></Route>
-              <Route exact path="/noctusign" component={NoctuSign}></Route>
-              <Route exact path="/customdesigns" component={CustomDesigns}></Route>
-              <Route exact path="/contactus" component={ContactUs}></Route>
-              <Route exact path="/aboutus" component={AboutUs}></Route>
+              <Route exact path="/hb/noctusign" component={NoctuSign}></Route>
+              <Route exact path="/hb/customdesigns" component={CustomDesigns}></Route>
+              <Route exact path="/hb/contactus" component={ContactUs}></Route>
+              <Route exact path="/hb/aboutus" component={AboutUs}></Route>
             </div>
           </div>
         </Router>
