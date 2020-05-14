@@ -19,7 +19,7 @@ class App extends Component {
         <div className="App">
           <NavBar />
             <div className = "componentBodyWrapper">
-              <Route exact path="/" component={HomePageBody}></Route>
+              <Route exact path="/hb" component={HomePageBody}></Route>
               <Route exact path="/noctusign" component={NoctuSign}></Route>
               <Route exact path="/customdesigns" component={CustomDesigns}></Route>
               <Route exact path="/contactus" component={ContactUs}></Route>
