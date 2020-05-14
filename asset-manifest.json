@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/hb/static/css/main.2e95e38f.chunk.css",
-    "main.js": "/hb/static/js/main.38f2bca5.chunk.js",
-    "main.js.map": "/hb/static/js/main.38f2bca5.chunk.js.map",
+    "main.css": "/hb/static/css/main.d8c29f71.chunk.css",
+    "main.js": "/hb/static/js/main.fdbf0d2a.chunk.js",
+    "main.js.map": "/hb/static/js/main.fdbf0d2a.chunk.js.map",
     "runtime-main.js": "/hb/static/js/runtime-main.eee1e508.js",
     "runtime-main.js.map": "/hb/static/js/runtime-main.eee1e508.js.map",
     "static/css/2.af3c1da9.chunk.css": "/hb/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.20d54844.chunk.js": "/hb/static/js/2.20d54844.chunk.js",
-    "static/js/2.20d54844.chunk.js.map": "/hb/static/js/2.20d54844.chunk.js.map",
+    "static/js/2.7539bd8c.chunk.js": "/hb/static/js/2.7539bd8c.chunk.js",
+    "static/js/2.7539bd8c.chunk.js.map": "/hb/static/js/2.7539bd8c.chunk.js.map",
     "index.html": "/hb/index.html",
-    "precache-manifest.99ff0f1d62e481ef197f6ecfd7b58cde.js": "/hb/precache-manifest.99ff0f1d62e481ef197f6ecfd7b58cde.js",
+    "precache-manifest.98d263b1ff30af0fe37abdf09127c0b2.js": "/hb/precache-manifest.98d263b1ff30af0fe37abdf09127c0b2.js",
     "service-worker.js": "/hb/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/hb/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.2e95e38f.chunk.css.map": "/hb/static/css/main.2e95e38f.chunk.css.map",
-    "static/js/2.20d54844.chunk.js.LICENSE.txt": "/hb/static/js/2.20d54844.chunk.js.LICENSE.txt",
+    "static/css/main.d8c29f71.chunk.css.map": "/hb/static/css/main.d8c29f71.chunk.css.map",
+    "static/js/2.7539bd8c.chunk.js.LICENSE.txt": "/hb/static/js/2.7539bd8c.chunk.js.LICENSE.txt",
     "static/media/6bQSZQ1.jpg": "/hb/static/media/6bQSZQ1.76e1bbdf.jpg",
     "static/media/CustomDesignsHeader.css": "/hb/static/media/agoestoesan.29b93579.ttf",
     "static/media/CA.jpg": "/hb/static/media/CA.e8ccabac.jpg",
@@ -23,11 +23,12 @@
     "static/media/apocalypse.jpg": "/hb/static/media/apocalypse.44f220cb.jpg",
     "static/media/archer.jpg": "/hb/static/media/archer.946dccda.jpg",
     "static/media/armagedda.jpg": "/hb/static/media/armagedda.391ee97d.jpg",
-    "static/media/homePageBody.css": "/hb/static/media/bill-nino-2PvQq4W6KYc-unsplash.5c90df80.jpg",
+    "static/media/bill-nino-2PvQq4W6KYc-unsplash.jpg": "/hb/static/media/bill-nino-2PvQq4W6KYc-unsplash.5c90df80.jpg",
     "static/media/chtulu.jpg": "/hb/static/media/chtulu.019f4b21.jpg",
     "static/media/futurama.jpg": "/hb/static/media/futurama.2dd10fe1.jpg",
     "static/media/futurama2.jpg": "/hb/static/media/futurama2.3d24193f.jpg",
     "static/media/hellfish.jpg": "/hb/static/media/hellfish.dd47d425.jpg",
+    "static/media/noctuSignFontLogo.png": "/hb/static/media/noctuSignFontLogo.72234e6f.png",
     "static/media/punisher.jpg": "/hb/static/media/punisher.16a96a04.jpg",
     "static/media/rebel.jpg": "/hb/static/media/rebel.f4a2d112.jpg",
     "static/media/tatiana-rodriguez-zFBbQ2X45m0-unsplash.jpg": "/hb/static/media/tatiana-rodriguez-zFBbQ2X45m0-unsplash.3feed002.jpg"
@@ -35,8 +36,8 @@
   "entrypoints": [
     "static/js/runtime-main.eee1e508.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.20d54844.chunk.js",
-    "static/css/main.2e95e38f.chunk.css",
-    "static/js/main.38f2bca5.chunk.js"
+    "static/js/2.7539bd8c.chunk.js",
+    "static/css/main.d8c29f71.chunk.css",
+    "static/js/main.fdbf0d2a.chunk.js"
   ]
 }
