@@ -22,21 +22,21 @@ const NavBar = (props) => {
   return (
     <div className = "NavBarContainer">
       <Navbar color="light" light expand="md">
-        <NavbarBrand href="/hb">H.B.</NavbarBrand>
+        <NavbarBrand href="/">H.B.</NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
           <Nav className="mr-auto" navbar>
           <NavItem>
-              <NavLink className = "NavFonts" href="/hb/noctusign">NoctuSign</NavLink>
+              <NavLink className = "NavFonts" href="/noctusign">NoctuSign</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink className = "NavFonts" href="/hb/customdesigns">Custom Designs</NavLink>
+              <NavLink className = "NavFonts" href="/customdesigns">Custom Designs</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink className = "NavFonts" href="/hb/contactus">Contact Us</NavLink>
+              <NavLink className = "NavFonts" href="/contactus">Contact Us</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink className = "NavFonts" href="/hb/aboutus">About Us</NavLink>
+              <NavLink className = "NavFonts" href="/aboutus">About Us</NavLink>
             </NavItem>
           </Nav>
         </Collapse>
